@@ -10,7 +10,7 @@ This repository stores some css I commonly used
 
 ## Clutter-Free Headings
 
-<https://github.com/Shelton212/obsidian-snippets/blob/master/Clutter-Free%20Headings.css>
+<https://github.com/Shelton212/obsidian-snippets/blob/master/clutter-free-headings.css>
 
 WYSIWYG-ish headings which line up headings, show the formatting markers when editing
 and replace them with a muted "H1", "H2" etc when not the active line.
