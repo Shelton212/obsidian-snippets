@@ -15,7 +15,7 @@ This repository stores some css I commonly used
 WYSIWYG-ish headings which line up headings, show the formatting markers when editing
 and replace them with a muted "H1", "H2" etc when not the active line.
 
-I modified it is based on [this version](https://github.com/deathau/obsidian-snippets/blob/main/clutter-free-headings.css) because it only works on  legacy editor
+I modified it based on [this version](https://github.com/deathau/obsidian-snippets/blob/main/clutter-free-headings.css) because it only works on  legacy editor
 
 ![](./images/clutter-free-headings.gif)
 
