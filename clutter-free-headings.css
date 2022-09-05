@@ -1,6 +1,6 @@
 body:not(.no-heading-level-in-lp) .is-live-preview .cm-header::before {
     font-family: var(--font-monospace);
-    font-size: .9rem;
+    font-size: 0.75/4rem;
     font-style: normal;
     line-height: 1em;
     color: var(--text-muted);
@@ -13,19 +13,30 @@ body:not(.no-heading-level-in-lp) .is-live-preview .cm-header::before {
 
 body:not(.no-heading-level-in-lp) .is-live-preview .cm-line:not(.cm-active)>.cm-header-1::before {
     content: "H1";
+    color: #e06e6e;
 }
+
 body:not(.no-heading-level-in-lp) .is-live-preview .cm-line:not(.cm-active)>.cm-header-2::before {
     content: "H2";
+    color: #f3a368;
 }
+
 body:not(.no-heading-level-in-lp) .is-live-preview .cm-line:not(.cm-active)>.cm-header-3::before {
     content: "H3";
+    color:#e5c76b;
 }
+
 body:not(.no-heading-level-in-lp) .is-live-preview .cm-line:not(.cm-active)>.cm-header-4::before {
     content: "H4";
+    color: #8ccf7e;
 }
+
 body:not(.no-heading-level-in-lp) .is-live-preview .cm-line:not(.cm-active)>.cm-header-5::before {
     content: "H5";
+    color: #c47fd5;
 }
+
 body:not(.no-heading-level-in-lp) .is-live-preview .cm-line:not(.cm-active)>.cm-header-6::before {
     content: "H6";
+    color: #f3a368;
 }
